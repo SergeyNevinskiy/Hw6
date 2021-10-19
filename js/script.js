@@ -1,5 +1,5 @@
 
-// Number 2 
+// 2 Number 
 // const result = Boolean(Number("10")) + 1;
 // console.log(result, typeof result);
 
